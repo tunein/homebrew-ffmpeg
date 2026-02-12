@@ -3,7 +3,7 @@ class Ffmpeg < Formula
   homepage "https://ffmpeg.org/"
   url "https://ffmpeg.org/releases/ffmpeg-8.0.tar.xz"
   version "8.0-with-options" # to distinguish from homebrew-core's ffmpeg
-  sha256 "5fce5cb87690d93b6cc9cbbf8a1d9c9bd5b89f949f2c935e43335121a1ec84dd"
+  sha256 "b2751fccb6cc4c77708113cd78b561059b6fa904b24162fa0be2d60273d27b8e"
   license "GPL-2.0-or-later"
   head "https://github.com/FFmpeg/FFmpeg.git", branch: "master"
 
