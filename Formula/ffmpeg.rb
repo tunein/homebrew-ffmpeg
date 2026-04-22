@@ -1,9 +1,9 @@
 class Ffmpeg < Formula
   desc "Play, record, convert, and stream audio and video"
   homepage "https://ffmpeg.org/"
-  url "https://ffmpeg.org/releases/ffmpeg-8.0.tar.xz"
-  version "8.0-with-options" # to distinguish from homebrew-core's ffmpeg
-  sha256 "b2751fccb6cc4c77708113cd78b561059b6fa904b24162fa0be2d60273d27b8e"
+  url "https://ffmpeg.org/releases/ffmpeg-8.1.tar.xz"
+  version "8.1-with-options" # to distinguish from homebrew-core's ffmpeg
+  sha256 "b072aed6871998cce9b36e7774033105ca29e33632be5b6347f3206898e0756a"
   license "GPL-2.0-or-later"
   head "https://github.com/FFmpeg/FFmpeg.git", branch: "master"
 
